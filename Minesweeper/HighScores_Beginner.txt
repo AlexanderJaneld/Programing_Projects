@@ -1,0 +1,11 @@
+75 Lisa
+84 Kalle
+64 Göran
+70 Lisa
+54 Simon
+18 Viktor
+19 David
+26 Nicklas
+20.0 Alex
+
+21.6 Alex

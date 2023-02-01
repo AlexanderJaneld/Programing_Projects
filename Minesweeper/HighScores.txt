@@ -1,0 +1,6 @@
+Name:Alex Rows:5 Cols:4 Mines:1 Time:13.4s
+Name:Alex Rows:9 Cols:9 Mines:10 Time:20.0s
+Name:Alex Rows:9 Cols:9 Mines:10 Time:21.6s
+Name:Alex Rows:6 Cols:6 Mines:2 Time:4.8s
+Name:Alex Rows:5 Cols:5 Mines:1 Time:2.2s
+Name:Alex Rows:5 Cols:5 Mines:1 Time:3.0s
